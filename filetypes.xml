@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="Pytest" type="Native" />
       <mapping pattern="*. Is python Compiled or Interpreted Language?" type="PLAIN_TEXT" />
+      <mapping pattern="pytest" type="PLAIN_TEXT" />
       <mapping pattern="chromedriver.exe" type="PLAIN_TEXT" />
       <mapping pattern="IEDriverServer.exe" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
